@@ -22,8 +22,8 @@ title: Tanay Aggarwal
 email: i@tanayaggarwal.me
 description: >- # this means to ignore newlines until "baseurl:"
   A young entrepreneur and tech enthusiast, who loves all things-tech. Intrigued by outer space and passionate about building solutions for exploration.
-baseurl: "/imtanay.github.io" # the subpath of your site, e.g. /blog
-url: "https://imtanay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ImTanayAggarwal
 github_username:  ImTanay
 # Build settings
